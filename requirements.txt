@@ -4,4 +4,4 @@ langchain-community
 langchain-openai
 python-dotenv
 pydantic
-google_search
+google_search_results
